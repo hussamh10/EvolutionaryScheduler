@@ -1,0 +1,8 @@
+Campus Name, Term Name, Working Days in a Week, Number of Slots in a Day
+Room Seating Capacity Excel Filename, SheetName
+Course List, SheetName,RowValueToSkip1,RowValueToSkip2,RowValueToSkip3,...,RowValueToSkipN
+Smallest Unit of Time Used to Shift a Class forwards or backwards(Minutes)
+Starting Time for Last Class(The Hour = [1,24]), Starting Time for Last Class(The Minute)
+Ending Time for Last Class(The Hour = [1,24]), Ending Time for Last Class(The Minute)
+Excel File Name for Student Enrollments, Excel Sheetname for Student Enrollments
+

@@ -1,0 +1,7 @@
+FAST-NUCES Lahore, Summer 2017, 5, 6
+StudentExamSeatingData-Spring 2017-Mid-1-v2.xlsx, RoomCapacity
+CS Time Table  List of Courses (Spring 2017) v 1.0.xlsx, CS Courses List (Spring 2017),Course Title,CS-2016,CS-2015,CS-2014,CS-2013,MS(CS),MS(SPM),Final Year Project - I (CS),Final Year Project - II (CS),MS Thesis - I (MS),MS Thesis - II (MS),Research Project - I (MS-SPM),Research Project - II (MS-SPM)
+5
+7, 30
+17, 30
+Student List.xlsx, Sheet1
